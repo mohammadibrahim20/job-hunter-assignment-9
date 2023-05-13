@@ -1,0 +1,40 @@
+{
+    "id": "mn8bvc4qwq2",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "job_title": "Software Engineer",
+    "company_name": "Apple",
+    "remote_or_onsite": "Onsite",
+    "location": "Cupertino, CA",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$120,000 - $150,000",
+    "job_description": "We are seeking a highly skilled software engineer to join our team to work on new and innovative projects.",
+    "job_responsibility": "Design and develop software solutions for a variety of applications.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "5+ years of software engineering experience.",
+    "contact_information": {
+      "phone": "(123) 456-7890",
+      "email": "jobs@apple.com",
+      "address": "1 Apple Park Way, Cupertino, CA 95014"
+    }
+  },
+  {
+    "id": "as9fgh3jklp",
+    "company_logo": "https://static.vecteezy.com/system/resources/previews/019/550/793/non_2x/tesla-logo-free-download-free-vector.jpg",
+    "job_title": "Mechanical Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Fremont, CA",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$100,000 - $130,000",
+    "job_description": "We are seeking a talented mechanical engineer to join our team to help develop cutting-edge products.",
+    "jjob_responsibility": "Design and develop mechanical components for electric vehicles and other products.",
+    "educational_requirements": "Bachelor's degree in Mechanical Engineering or related field.",
+    "experiences": "3+ years of mechanical engineering experience.",
+    "contact_information": {
+      "phone": "(123) 456-7890",
+      "email": "jobs@tesla.com",
+      "address": "45500 Fremont Blvd, Fremont, CA 94538"
+    }}
+
+
+    

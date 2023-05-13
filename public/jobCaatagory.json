@@ -1,0 +1,30 @@
+[
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/512/2704/2704022.png",
+    "categoryName": "Web Development",
+    "jobVacancyCount": 245,
+    "id": "webdev",
+    "index": 0
+  },
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/512/3159/3159310.png",
+    "categoryName": "Graphic Design",
+    "jobVacancyCount": 143,
+    "id": "graphicdesign",
+    "index": 1
+  },
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/512/3159/3159310.png",
+    "categoryName": "Marketing",
+    "jobVacancyCount": 27,
+    "id": "marketing",
+    "index": 2
+  },
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/512/3159/3159310.png",
+    "categoryName": "Engineering Job",
+    "jobVacancyCount": 72,
+    "id": "engineer",
+    "index": 3
+  }
+]

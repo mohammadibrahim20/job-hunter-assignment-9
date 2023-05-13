@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ab2hdk34kas",
+    "company_logo": "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png",
+    "job_title": "Full Stack Developer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$80,000 - $120,000",
+    "job_description": "We are looking for an experienced Full Stack Developer to join our team.",
+    "job_responsibility": "Design and develop web applications using modern technologies.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of experience as a Full Stack Developer.",
+    "contact_information": {
+      "phone": "555-1234",
+      "email": "jobs@abccompany.com",
+      "address": "123 Main St, New York, NY"
+    }
+  },
+  {
+    "id": "kl5djo8fvn9",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png",
+    "job_title": "Data Scientist",
+    "company_name": "Google",
+    "remote_or_onsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$120,000 - $160,000",
+    "job_description": "We are seeking a highly skilled Data Scientist to join our team.",
+    "job_responsibility": "Develop and implement machine learning models to solve business problems.",
+    "educational_requirements": "Master's degree or PhD in Computer Science, Statistics or related field.",
+    "experiences": "5+ years of experience in Data Science.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "jobs@xyzcorp.com",
+      "address": "456 Market St, San Francisco, CA"
+    }
+  },
+  {
+    "id": "p7gtrf2hjkl",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Starlink_Logo.svg/2560px-Starlink_Logo.svg.png",
+    "job_title": "Software Engineer",
+    "company_name": "Starlink",
+    "remote_or_onsite": "Remote",
+    "location": "Anywhere",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$100,000 - $150,000",
+    "job_description": "We are looking for a talented software engineer to join our team and help us build innovative software solutions.",
+    "job_responsibility": "- Design and develop software applications   Collaborate with cross-functional teams to identify and solve complex problems   Write clean and maintainable code   Participate in code reviews and contribute to the team's development standards",
+    "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+    "experiences": "3+ years of experience in software development",
+    "contact_information": {
+      "phone": "555-1234",
+      "email": "jobs@acmeinc.com",
+      "address": "123 Main St, Anytown USA"
+    }
+  },
+  {
+    "id": "qw1ert0yui9",
+    "company_logo": "https://assets.stickpng.com/images/5842a770a6515b1e0ad75afe.png",
+    "job_title": "Electrical Engineer",
+    "company_name": "SpaceX",
+    "remote_or_onsite": "Onsite",
+    "location": "New York City",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$80,000 - $120,000",
+    "job_description": "We are seeking an experienced electrical engineer to join our team and help us develop cutting-edge products.",
+    "job_responsibility": "- Design and develop electrical systems and components   Collaborate with other engineers to integrate electrical systems with mechanical systems   Participate in the development of test plans and perform testing and validation   Write technical reports and documentation",
+    "educational_requirements": "Bachelor's degree in Electrical Engineering or a related field",
+    "experiences": "5+ years of experience in electrical engineering",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "jobs@xyzcorp.com",
+      "address": "456 Park Ave, New York City, USA"
+    }
+  },
+  {
+    "id": "zx6cvb5nmk8",
+    "company_logo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google",
+    "remote_or_onsite": "Onsite",
+    "location": "Mountain View, CA",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$150,000 - $200,000",
+    "job_description": "We are looking for a talented Software Engineer to join our team and help us develop and maintain high-quality software applications. You will work on a variety of projects, including new product development and feature enhancements, using the latest technologies and development methodologies.",
+    "job_responsibility": "• Design, develop, and maintain software applications  Write clean, scalable, and efficient code  Collaborate with cross-functional teams to define, design, and ship new features  Troubleshoot and debug issues  Participate in code reviews and ensure high code quality standards  Stay up-to-date with emerging trends and technologies in software development",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "3+ years of professional software development experience",
+    "contact_information": {
+      "phone": "(123) 456-7890",
+      "email": "jobs@google.com",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+    }
+  },
+  {
+    "id": "yu2hgt7frt5",
+    "company_logo": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo.png",
+    "job_title": "Cloud Solutions Architect",
+    "company_name": "Amazon Web Services",
+    "remote_or_onsite": "Remote",
+    "location": "United States",
+    "fulltime_or_parttime": "Fulltime",
+    "salary": "$170,000 - $220,000",
+    "job_description": "We are seeking a Cloud Solutions Architect to join our team and help our customers design, architect, and deploy AWS solutions. You will work with our customers to understand their business requirements and design and implement solutions that meet their needs using AWS technologies.",
+    "job_responsibility": " Design and architect AWS solutions based on customer requirements  Develop and maintain technical expertise in AWS services  Collaborate with cross-functional teams to deliver solutions  Create and deliver presentations and training sessions to customers and colleagues  Stay up-to-date with emerging trends and technologies in cloud computing",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "5+ years of experience designing and implementing cloud solutions",
+    "contact_information": {
+      "phone": "(123) 456-7890",
+      "email": "aws.jobs@amazon.com",
+      "address": "Seattle, WA 98109"
+    }
+  }
+]
